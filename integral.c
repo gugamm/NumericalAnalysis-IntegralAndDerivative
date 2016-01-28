@@ -1,6 +1,5 @@
 /********************************
 * NOME : GUSTAVO MARQUES MARTINS
-* MATRICULA : 1310630
 * LAB8
 * INTEGRAL
 **********************/
@@ -15,7 +14,7 @@
 //Calcula o valor aproximado de uma integral usando o metodo de simpson simples
 static double simpson(double a, double b, double(*f) (double));
 
-// Como a formula de simpson n„o funciona bem para intervalos muito grandes, utiliza-se o metodo
+// Como a formula de simpson n√£o funciona bem para intervalos muito grandes, utiliza-se o metodo
 // de simpson composto. Divide-se o intervalo [a,b] em sub-intervalos e utiliza-se a formula de 
 // simpson simples nesses sub-intervalos
 static double simpsonComposto(double a, double b, int n, double(*f) (double));
