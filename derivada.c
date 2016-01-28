@@ -1,6 +1,5 @@
 /*********************************
 * NOME : GUSTAVO MARQUES MARTINS
-* MATRICULA : 1310630
 * LAB8
 * DERIVADA
 **********************************/
